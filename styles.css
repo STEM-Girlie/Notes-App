@@ -24,12 +24,13 @@
 }
 .container button img {
   width: 25px;
-  margin-right: 8px;
+
 }
 .container button {
   display: flex;
   align-items: center;
   justify-content: center; 
+  gap: 8px;
   background: linear-gradient(#6a1dc8, #a31dc8);
   color: #fff;
   font-size: 16px;
